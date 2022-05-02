@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/crm-clone-tutorial/static/css/main.900a9e93.css",
+    "main.js": "/crm-clone-tutorial/static/js/main.7f104161.js",
+    "static/media/blankAvatar.png": "/crm-clone-tutorial/static/media/blankAvatar.c9fbd98ff4e158ebbf92.png",
+    "static/media/logo.png": "/crm-clone-tutorial/static/media/logo.c9fbd98ff4e158ebbf92.png",
+    "index.html": "/crm-clone-tutorial/index.html",
+    "main.900a9e93.css.map": "/crm-clone-tutorial/static/css/main.900a9e93.css.map",
+    "main.7f104161.js.map": "/crm-clone-tutorial/static/js/main.7f104161.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.900a9e93.css",
+    "static/js/main.7f104161.js"
+  ]
+}
